@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+python-dotenv
+gradio
+numpy
+scikit-learn
